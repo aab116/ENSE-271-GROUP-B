@@ -1,7 +1,7 @@
 # ENSE 271 Group B - People-Centered Design Project
 
 ## Group Members
-- Abdulrahman Khawaja  
+- AbdulRahman Khawaja  
 - Amr Azouz  
 - Lorenzo Butalid  
 - Pranish Thapa  
