@@ -54,7 +54,7 @@ Some team members had no prior experience with these tools but have been activel
 As students, we face several challenges:  
 - **Limited experience** with certain technologies  
 - **Learning curve** for collaborative tools  
-- **Scheduling conflicts**, making collaboration across different time zones and availability difficult  
+- **Scheduling conflicts**, making collaboration across different times and availability difficult  
 
 Despite these constraints, we are committed to developing an effective and user-friendly solution.  
 
