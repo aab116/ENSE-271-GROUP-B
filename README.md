@@ -2,8 +2,7 @@
 
 ## University of Regina  
 **Instructor:** Dr. Timothy Maciag  
-**Team Members:**  
-- AbdurRahman Khawaja  
+**Team Members:**    
 - Amr Azouz  
 - Lorenzo Butalid  
 - Pranish Thapa  
