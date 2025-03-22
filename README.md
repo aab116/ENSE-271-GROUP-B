@@ -9,6 +9,7 @@
 - Lorenzo Butalid  
 - Pranish Thapa  
 
+🔗 **Project Website:** [Group B - SSCF Platform](https://group-b.softsys.ca/)  
 ---
 
 ## 📌 Project Background & Business Needs  
