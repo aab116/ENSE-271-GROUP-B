@@ -1,4 +1,5 @@
 # ENSE 271 - Group B Project  
+![SSCF-SolidBlack](https://github.com/user-attachments/assets/c92ea12f-861d-47a2-ad7c-972cbef1aa7e)
 
 ## University of Regina  
 **Instructor:** Dr. Timothy Maciag  
